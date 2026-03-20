@@ -226,7 +226,7 @@ const Home = () => {
               fontFamily: 'inherit',
               transition: 'border-color 0.2s'
             }}
-            placeholder={`Try these examples:\n\n🎨  A glassmorphism login form with email, password, Google & GitHub buttons\n\n🧭  A modern navbar with logo, links, dark mode toggle and CTA button\n\n💳  Three pricing cards — Free $0, Pro $29, Enterprise $99 with features\n\n📊  An analytics dashboard with stats cards, bar chart and transactions table\n\n👤  A developer profile card with avatar, skills badges and social links\n\n🚀  A hero section with gradient headline, subtitle and CTA buttons`}
+            placeholder={`Try these examples:\n\n\  A glassmorphism login form with email, password, Google & GitHub buttons\n\n A modern navbar with logo, links, dark mode toggle and CTA button\n\n Three pricing cards — Free $0, Pro $29, Enterprise $99 with features\n\n An analytics dashboard with stats cards, bar chart and transactions table\n\n A developer profile card with avatar, skills badges and social links\n\n  A hero section with gradient headline, subtitle and CTA buttons`}
           />
 
           {/* Generate Button */}
